@@ -9,10 +9,10 @@ print "if you do want that, hit RETURN."
 raw_input("?")
 
 print "opening the file..."
-target = open(filename,'w')
+target = open(filename,'w')#open and start to write
 
 print "truncating the file. Goodbye!"
-target.truncate()
+target.truncate()#truncate means making it shorter
 
 print "now I'm going to ask you for three lines"
 
