@@ -1,0 +1,15 @@
+likes = raw_input(prompt)binary---二进制的
+hilarious——滑稽的，欢闹的
+print "."*10    就真的打印了十遍
+转义序列等：
+\t   制表符，空出四格
+...
+...
+print "how old are you?",#','make the print and age in the same line
+
+prompt = '>' 
+XX = raw_input(prompt)，则输入时显示前面
+
+print "does the output file exist?%r"% exists(to_file) #exists is testing whether the file is existings
+
+18.py： def print_two(*args):  #*args is taking all the via
