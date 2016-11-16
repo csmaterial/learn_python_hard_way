@@ -8,7 +8,7 @@ print "."*10    就真的打印了十遍
 print "how old are you?",#','make the print and age in the same line
 
 prompt = '>' 
-XX = raw_input(prompt)，则输入时显示前面
+XX = raw_input(prompt)，则输入时>显示前面
 
 print "does the output file exist?%r"% exists(to_file) #exists is testing whether the file is existings
 
